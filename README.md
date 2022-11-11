@@ -1,2 +1,3 @@
 # DSA26_repo
-Devops class
+this is the Devops class repository
+script.shh refers to a shell script having example of for loop
